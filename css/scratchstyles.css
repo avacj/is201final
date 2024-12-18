@@ -1,0 +1,108 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+}
+.mb-3{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+}
+#mainNav{
+    background-color: #e6a756;
+}
+.intro-img img-fluid mb-3 mb-lg-0 rounded{
+    width: 50%;
+    height: 50%;
+}
+.section-heading-upper{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.section-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    color: #fff3cd;
+    font-size: 400%;
+    text-align: center;
+    background-color: #e6a756;
+    border: 12px solid #e6a756;
+    border-radius: 10px rounded;
+    margin: 20px auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+   border: 5px #e6a756;
+}
+body{
+    background-color: #fff3cd;
+}
+ol{
+    color: #fff3cd;
+    font-size: larger;
+    border: 2px solid #e6a756;
+    padding: 20px;
+    border-radius: 10px rounded;
+    margin: 20px auto;
+    width: fit-content;
+    background-color: #e6a756;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: #e6a756;
+    font-size: 200%;
+    text-align: center;
+    background-color: #fff3cd;
+    border: 12px solid #fff3cd;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: #e6a756;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff3cd;
+    width: fit-content;
+    font-size: x-large;
+}
+/*.content-block{
+    /*border: 2px solid #e6a756; /* Add a border */
+    /*border-radius: 15px; /* Round the corners */
+    /*padding: 15px; /* Optional padding */
+    /*margin: 10px; /* Optional margin */
+/*}*/
+.intro-text{
+    background-color: #fff3cd;
+}
+.site-heading-lower{
+    color: #fff3cd;
+}
+/*nav-link text-uppercase{*/
+    /*color: #fff3cd;*/
+/*}*/
+/*.btn-custom:hover {*/
+    /*opacity: 1 !important; /* Prevents transparency */
+    /*background-color: inherit !important; /* Keeps the original background color */
+    /*color: inherit !important; /* Ensures text color remains the same */
+    /*color: #fff3cd;*/
+/*}*/
+.btn-xl{
+    color: #fff3cd;
+    text-transform: none;
+}
+#mainNav .navbar-nav .nav-item .nav-link{
+    color: #fff3cd;
+    text-transform: none;
+}
+.site-heading-lower{
+    text-transform: none;
+}
+.section-heading{
+    text-transform: none;
+    text-align: center;
+}
+.btn:hover{
+    color: #fff3cd;
+}
